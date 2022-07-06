@@ -10,14 +10,24 @@ It includes three iris species with 50 samples each as well as some properties a
 
 The columns in this dataset are:
 
-<b1>Id</b1>
-<b2>SepalLengthCm</b2>
+<b>
+<ul>
+<li>SepalWidthCm</li>
+<li>PetalLengthCm</li>
+<li>PetalWidthCm</li>
+<li>Species</li>
+</ul>
+</b>
+<h2> 
+<u>Titanic Datset</u>
+</h2>
 
-SepalWidthCm
+In this Kernel we're going to take a look at Decision Trees using Python and the Titanic dataset. It's not intended to be the most accurate Titanic survival model out there, but to explain how to create, visualise and understand Classification Trees. The main aspects covered are:
 
-
-PetalLengthCm
-
-PetalWidthCm
-
-Species
+<b>
+<ul>
+<li>Learning from the data with Decision Trees</li>
+<li>Dataset exploration and processing</li>
+<li>Relevant features for Decision Trees</li>
+</ul>
+</b>
